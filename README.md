@@ -1,4 +1,4 @@
-InsightStream demo link:https://drive.google.com/file/d/1ASeV3wsjUY8G65xvBdVnvbRb5FgqCxam/view?usp=sharing
+InsightStream demo link:https://drive.google.com/file/d/1OJfWNBHhrUm_8hyGVj2mDaMPgj7eETtI/view?usp=sharing
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
